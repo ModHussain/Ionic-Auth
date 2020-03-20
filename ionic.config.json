@@ -1,0 +1,7 @@
+{
+  "name": "ionicFC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
